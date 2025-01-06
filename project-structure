@@ -1,0 +1,14 @@
+twitter-api-examples/
+├── README.md                 # 主要文档
+├── docs/                     # 文档目录
+│   ├── en/                   # 英文文档
+│   ├── zh/                   # 中文文档
+│   ├── ja/                   # 日文文档
+│   └── ...                   # 其他语言
+├── examples/                 # 示例代码
+│   ├── python/              # Python示例
+│   ├── javascript/          # JavaScript示例
+│   ├── java/                # Java示例
+│   ├── go/                  # Go示例
+│   └── curl/                # CURL示例
+└── tests/                   # 测试用例 
